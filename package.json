@@ -5,10 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [isagani],
+  "author": "isagani kunma",
   "license": "ISC",
-  "description": "",
+  "description": "potang1na wag spam",
   "dependencies": {
     "@xaviabot/fb-downloader": "^1.0.14",
     "axios": "^1.8.3",
